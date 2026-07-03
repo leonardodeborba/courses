@@ -1,0 +1,12 @@
+# !!! This file is formatted to be imported into Anki (front;back;tag). !!!
+# !!! The flashcards are based on some of the quizzes, reviews, and questions included in the Python Certification from freeCodeCamp. !!!
+# !!! Some questions were slightly altered, such as replacing "which of the following" with "what is". !!!
+# ------ ALREADY IMPORTED ------
+# ------ NOT IMPORTED ----------
+How is Python used in embedded systems and IoT?;It runs on microcomputers like Raspberry Pi and compatible boards.;fcc-py
+Which Python frameworks are used in web development?;Django, FastAPI, Flask;fcc-py
+Why should you avoid using single-letter variable names?;They do not communicate the purpose of the variable.;fcc-py
+What does it mean that Python is dynamically typed?;Python automatically determines the data type based on the assigned value.;fcc-py
+What is the difference between the integer and float data types?;Integers are whole numbers without decimals, while floats are numbers with decimal points.;fcc-py
+What is a True or False type in Python?;Boolean;fcc-py
+What function is used to check if a variable is a specific type?;isinstance();fcc-py
