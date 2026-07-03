@@ -1,8 +1,9 @@
 # !!! This file is formatted to be imported into Anki (front;back;tag). !!!
 # !!! The flashcards are based on some of the quizzes, reviews, and questions included in the Python Certification from freeCodeCamp. !!!
 # !!! Some questions were slightly altered, such as replacing "which of the following" with "what is". !!!
-# ------ ALREADY IMPORTED ------
-# ------ NOT IMPORTED ----------
+#
+#
+# ///// ALREADY IMPORTED /////
 How is Python used in embedded systems and IoT?;It runs on microcomputers like Raspberry Pi and compatible boards.;fcc-py
 Which Python frameworks are used in web development?;Django, FastAPI, Flask;fcc-py
 Why should you avoid using single-letter variable names?;They do not communicate the purpose of the variable.;fcc-py
@@ -10,3 +11,17 @@ What does it mean that Python is dynamically typed?;Python automatically determi
 What is the difference between the integer and float data types?;Integers are whole numbers without decimals, while floats are numbers with decimal points.;fcc-py
 What is a True or False type in Python?;Boolean;fcc-py
 What function is used to check if a variable is a specific type?;isinstance();fcc-py
+How do you get the length of a string;Using the len function;fcc-py
+What does it mean that a string is immutable?;A string cannot be directly modified by changing its individual characters.;fcc-py
+What is string concatenation?;The process of joining two or more strings together.;fcc-py
+How can you concatenate strings in Python?;By using the + (plus) operator or the += (augmented assignment) operator.;fcc-py
+What does the str() function do?;Returns the string version of the given object.;fcc-py
+What is string interpolation?;The process of inserting variables and expressions into a string.;fcc-py
+What is string slicing?;String slicing is the process of extracting a portion of a string or work with only a specific part of it.;fcc-py
+What is the basic syntax for string slicing?;string[start:stop:step];fcc-py
+What is the purpose of the optional step parameter in string slicing?;It specifices the increment between each character to extract.;fcc-py
+#
+#
+#
+#
+# ///// NOT IMPORTED /////
